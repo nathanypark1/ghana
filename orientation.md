@@ -13,16 +13,17 @@ After the last session, we quickly boarded the bus to JFK, checked in our bags, 
 ## Pictures
 
 ![union station](/images/union_station.png)
+
 *Surpringly this was my first time at Union Station*
 
 ![hotel room](/images/philly_hotel.png)
+
 *Thank you Peace Corps for booking a really nice hotel! Last place I slept in the US.*
 
 ![rocky_steps.png](/images/rocky_steps.png)
+
 *Not quite the shot in the movie, but A for effort.*
 
 ![staging](/images/staging.JPG)
+
 *First time meeting my cohort! Ignore the ackwardness, we had just met each other 8 hours ago.*
-
-
-

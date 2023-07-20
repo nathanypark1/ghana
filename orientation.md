@@ -21,7 +21,7 @@ After the last session, we quickly boarded the bus to JFK, checked in our bags, 
 ![rocky_steps.png](/images/rocky_steps.png)
 *Not quite the shot in the movie, but A for effort.*
 
-![staging](/images/staging.jpg)
+![staging](/images/staging.JPG)
 *First time meeting my cohort! Ignore the ackwardness, we had just met each other 8 hours ago.*
 
 

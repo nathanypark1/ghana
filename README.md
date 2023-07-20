@@ -6,7 +6,7 @@ the Ghana Government.**
 
 ## About Me
 
-![profile](/images/profile.JPG)
+![profile](/images/profile.jpg)
 
 My name is Nathan, and I'm currently a Peace Corps trainee. I grew up in Virginia near Washington, D.C., and have lived in Virginia all my life, so moving and living in Ghana has been a big change. Before joining the Peace Corps, I was a software engineer for 2.5 years. I've always enjoyed tutoring others and hope my experience translates well into teaching in a Ghanian classroom.
 

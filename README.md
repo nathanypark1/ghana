@@ -16,3 +16,4 @@ This page will mostly contain pictures, short stories, and what I was feeling at
 ## Table of Contents
 1. [Staging](orientation.md) (June 6 - June 7)
 2. [Hephzibah](hephzibah.md) (June 7 - June 16)
+3. [Homestay](homestay.md) (June 17 - August 24)

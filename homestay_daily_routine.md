@@ -51,4 +51,4 @@ Time | Activity
 
 ![uno.png](/images/uno.png)
 
-*We have about an hour to 2 hours of downtime before sleeping. One of the popular activities the kid like to play is UNO.*
+*We have about an hour to 2 hours of downtime before sleeping. One of the popular activities is playing UNO with the kids.*

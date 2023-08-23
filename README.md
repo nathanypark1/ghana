@@ -18,3 +18,4 @@ This page will mostly contain pictures, short stories, and what I was feeling at
 2. [Hephzibah](hephzibah.md) (June 7 - June 16)
 3. [Homestay](homestay.md) (June 17 - August 24)
 4. [Homestay Daily Routine](homestay_daily_routine.md) (June 17 - August 24)
+5. [Practicum](practicum.md) (July 9 - July 21)

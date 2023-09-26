@@ -8,7 +8,7 @@ the Ghana Government.**
 
 ![profile](/images/profile.JPG)
 
-My name is Nathan, and I'm currently a Peace Corps trainee. I grew up in Virginia near Washington, D.C., and have lived in Virginia all my life, so moving and living in Ghana has been a big change. Before joining the Peace Corps, I was a software engineer for 2.5 years. I've always enjoyed tutoring others and hope my experience translates well into teaching in a Ghanian classroom.
+My name is Nathan, and I'm currently a Peace Corps Volunteer. I grew up in Virginia near Washington, D.C., and have lived in Virginia all my life, so moving and living in Ghana has been a big change. Before joining the Peace Corps, I was a software engineer for 2.5 years. I've always enjoyed tutoring others and hope my experience translates well into teaching in a Ghanian classroom.
 
 ## Description
 This page will mostly contain pictures, short stories, and what I was feeling at the time. Let me know if you want me to write about a specific way of life in Ghana.
@@ -19,3 +19,4 @@ This page will mostly contain pictures, short stories, and what I was feeling at
 3. [Homestay](homestay.md) (June 17 - August 24)
 4. [Homestay Daily Routine](homestay_daily_routine.md) (June 17 - August 24)
 5. [Practicum](practicum.md) (July 9 - July 21)
+6. [Site Visit](site_visit.md) (July 28 - August 2)

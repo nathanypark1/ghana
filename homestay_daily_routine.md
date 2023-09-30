@@ -29,26 +29,26 @@ Time | Activity
 
 ## Pictures
 
-![sweeping](/images/sweeping.png)
+![sweeping](/images/homestay_daily_routine/sweeping.png)
 
 *My sister Ama sweeping her section of the house. We sweep every morning to clean away all the animal poop, so the flies are elsewhere.*
 
-![fetching_water](/images/fetching_water.png)
+![fetching_water](/images/homestay_daily_routine/fetching_water.png)
 
 *My siblings and some of the other local neighbors helping fetch water.*
 
-![walk_up_abonse.png](/images/walk_up_abonse.png)
+![walk_up_abonse.png](/images/homestay_daily_routine/walk_up_abonse.png)
 
 *Gaelle, her siblings, and some of my siblings walking up the Abonse hill.*
 
-![food_session](/images/food_session.png)
+![food_session](/images/homestay_daily_routine/food_session.png)
 
 *Usually our sessions are just lectures, but we did a session on cooking with Ghanaian ingredients. Here is Dylan and Kevin pounding fufu.*
 
-![dinner_food](/images/dinner_food.png)
+![dinner](/images/homestay_daily_routine/dinner.png)
 
 *An example of what I eat for dinner. My mom prepared banku.*
 
-![uno.png](/images/uno.png)
+![uno.png](/images/homestay_daily_routine/uno.png)
 
 *We have about an hour to 2 hours of downtime before sleeping. One of the popular activities is playing UNO with the kids.*

@@ -14,30 +14,30 @@ One thing I noticed that was very different than the US curriculum is that stude
 
 ## Pictures
 
-![practicum nathan](/images/practicum_nathan.png)
+![practicum nathan](/images/practicum/nathan.png)
 
 *Me teaching big number decimal addition.*
 
-![practicum dylan](/images/practicum_dylan.png)
+![practicum dylan](/images/practicum/dylan.png)
 
 *Dylan and I were both at Kordiabe JHS school, so we taught the same students. Here is Dylan giving an example of energy transfer: solar to electric*
 
-![practicum worship](/images/practicum_worship.png)
+![practicum worship](/images/practicum/worship.png)
 
 *Once a week, the students gather for worship. Kordiabe is a Catholic school, so a local preist comes to give a little service. There are also 2 nuns from India that work at the school.*
 
-![practicum kg kids](/images/practicum_kg_kids.png)
+![practicum kg kids](/images/practicum/kg_kids.png)
 
 *The school is understaffed, so the kindergarten kids get a lot of breaks. Here is me trying to play catch with them.*
 
-![practicum rain](/images/practicum_rain.png)
+![practicum rain](/images/practicum/rain.png)
 
 *When it rains in Ghana, nobody teachs. Kordiabe has no lights and the roofs are metal sheets, so it's both extremely dark and loud when it rains. Here is me trying to teach while it's raining. I ended up just re-teaching the entire lesson the next day.*
 
-![practicum kevin](/images/practicum_kevin.png)
+![practicum kevin](/images/practicum/kevin.png)
 
 *I had the opportunity to see visit Kevin and Conal in Asesseso for their practicum. Here is Kevin playing a math game with his students.*
 
-![practicum conal](/images/practicum_conal.png)
+![practicum conal](/images/practicum/conal.png)
 
 *Here is Conal facilitating a group activity on different classes of levers.*

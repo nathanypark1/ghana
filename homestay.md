@@ -12,22 +12,22 @@ I also forgot to mention in my Hephzibah post, but I also got a sign name. Sign 
 
 ## Pictures
 
-![abonse view](/images/abonse_view.png)
+![abonse view](/images/homestay/view.png)
 
 *About midway up the hill. This reminds me to get a picture at the top of the hill.*
 
-![abonse family](/images/abonse_family.png)
+![abonse family](/images/homestay/family.png)
 
 *Celebrating Oteng Mante's birthday. Some of the neighbors got in this photo.*
 
-![abonse spot](/images/abonse_spot.png)
+![abonse spot](/images/homestay/spot.png)
 
 *Grabing a drink with the cohort after a long day.*
 
-![abonse cats](/images/abonse_cats.png)
+![abonse cats](/images/homestay/cats.png)
 
 *My family owns about 10 cats in total. I'm slightly allergic to cats, but since these guys are always outside, my eyes don't itch. Picture of some baby kittens.*
 
-![sign name](/images/sign_name.png)
+![sign name](/images/homestay/sign_name.png)
 
 *Thank you Tyler for giving me and nearly everyone else in our cohort a unique sign name.*

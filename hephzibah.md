@@ -10,26 +10,26 @@ For those 10 days, we had a lot of sessions on safety and security, the Ghanaian
 
 ## Pictures
 
-![peace corps staff](/images/peace_corps_staff.png)
+![peace corps staff](/images/hephzibah/peace_corps_staff.png)
 
 *Welcome ceremony in Peace Corps Ghana's Accra office. We were able to meet the Peace Corps Ghana Director and see traditional schnapps being poured out.*
 
-![spa](/images/hephzibah_spa.png)
+![spa](/images/hephzibah/spa.png)
 
 *One really popular card game Ghanaians play is Spa. Here are a couple of us practicing, so that we don't get embarrassed when playing Ghanaians.*
 
-![food](/images/hephzibah_food.png)
+![food](/images/hephzibah/food.png)
 
 *An example of a Hephzibah meal. This was jollof rice, fish sticks, salad, and chicken.*
 
-![sim](/images/sim.png)
+![sim](/images/hephzibah/sim.png)
 
 *We were given a Ghanaian sim card to insert into our phones. That's my WhatsApp number by the way if you want to contact me. Don't include the 0 in the front though.*
 
-![university of ghana](/images/university_of_ghana.png)
+![university of ghana](/images/hephzibah/university_of_ghana.png)
 
 *A couple other volunteers and I were able to visit the University of Ghana. We didn't have much time to explore, but I was successful in finding the Economics department!*
 
-![talent show](/images/talent_show.png)
+![talent show](/images/hephzibah/talent_show.png)
 
 *The last day before home stay, all the volunteers participated in the talent show. Conal was doing some interpretive dance, Kevin was on guitar, and I was vocals.*

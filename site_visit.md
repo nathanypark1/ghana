@@ -14,30 +14,30 @@ A big thing to note is the hospitality shown to me when I first arrived. I was c
 
 ## Pictures
 
-![site visit hizikil](/images/site_visit_hizikil.png)
+![site visit hizikil](/images/site_visit/hizikil.png)
 
 *My first meeting with Hizikil, my Contact Person.*
 
-![site visit beef](/images/site_visit_beef.png)
+![site visit beef](/images/site_visit/beef.png)
 
 *A little snack after arriving in Tamale, the Northern capitol of Ghana. This was delicious because I had almost no beefing during homestay. Luckily, there are cows everywhere at my permanent site.*
 
-![site visit yellow yellow](/images/site_visit_yellow_yellow.png)
+![site visit yellow yellow](/images/site_visit/yellow_yellow.png)
 
 *My primary mode of transportation around was in Hizikil's yellow yellow. I think we call them rickshaws in the US? Hizikil likes to mess around with the kids telling them his yellow yellow is actually a green green. Then, when they call it a green green, he corrects them and says it's a yellow yellow.*
 
-![site visit waakye](/images/site_visit_waakye.png)
+![site visit waakye](/images/site_visit/waakye.png)
 
 *Waakye is a dish very common in Ghana. I ate a lot of it during site visit and there were no complaints. It's delicious.*
 
-![site visit shea fruit](/images/site_visit_shea_fruit.png)
+![site visit shea fruit](/images/site_visit/shea_fruit.png)
 
 *It was shea fruit harvest season when we arrived and I was able to snack on them often. I've heard of shea butter in skin care products in the US, but I had never actually tasted the fruit. They were really buttery and very good.*
 
-![site visit jollof](/images/site_visit_jollof.png)
+![site visit jollof](/images/site_visit/jollof.png)
 
 *I ate a lot of dafaduka (what they call jollof in the north) during site visit. It's kind of like bibimbap as you can put anything you want in it and mix. Sure, there are the usual ingredients you put in it, like tomatoes and pepeprs, but really it's just whatever is available. Also, my community sells fried fish everywhere. Fish and beans will be my primary source of protein for the next 2 years.*
 
-![site visit chicken](/images/site_visit_chicken.png)
+![site visit chicken](/images/site_visit/chicken.png)
 
 *It's customary to slaughter a chicken for a guest in Ghana, so Hizikil and I ate this guy. I was only able to eat a little of him because we had a huge meal right before.*

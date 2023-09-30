@@ -96,7 +96,7 @@ https://github.com/nathanypark1/ghana/assets/136642502/15e44ba1-837d-4c2d-8dd2-3
 
 3. The 14.5 hour bus ride from Tamale to Accra 
 
-4. After the 14.5 hour bus ride, Nathan got the runs and shit himself at the hotel we were staying at
+4. 
 
 ### Gaelle Vincent
 

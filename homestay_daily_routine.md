@@ -52,3 +52,7 @@ Time | Activity
 ![uno.png](/images/homestay_daily_routine/uno.png)
 
 *We have about an hour to 2 hours of downtime before sleeping. One of the popular activities is playing UNO with the kids.*
+
+## Read More
+ - [previous: Homestay](/homestay.md)
+ - [next: Practicum](/practicum.md)

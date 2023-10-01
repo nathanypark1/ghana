@@ -31,3 +31,7 @@ I also forgot to mention in my Hephzibah post, but I also got a sign name. Sign 
 ![sign name](/images/homestay/sign_name.png)
 
 *Thank you Tyler for giving me and nearly everyone else in our cohort a unique sign name.*
+
+## Read More
+ - [previous: Hepzibah](/hephzibah.md)
+ - [next: Homestay Daily Routine](/homestay_daily_routine.md)

@@ -33,3 +33,7 @@ For those 10 days, we had a lot of sessions on safety and security, the Ghanaian
 ![talent show](/images/hephzibah/talent_show.png)
 
 *The last day before home stay, all the volunteers participated in the talent show. Conal was doing some interpretive dance, Kevin was on guitar, and I was vocals.*
+
+## Read More
+ - [previous: Staging](/staging.md)
+ - [next: Homestay](/homestay.md)

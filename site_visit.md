@@ -41,3 +41,7 @@ A big thing to note is the hospitality shown to me when I first arrived. I was c
 ![site visit chicken](/images/site_visit/chicken.png)
 
 *It's customary to slaughter a chicken for a guest in Ghana, so Hizikil and I ate this guy. I was only able to eat a little of him because we had a huge meal right before.*
+
+## Read More
+ - [previous: Practicum](/practicum.md)
+ - [next: Cohort Spotlight](/cohort_spotlight.md)

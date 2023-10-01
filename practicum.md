@@ -41,3 +41,7 @@ One thing I noticed that was very different than the US curriculum is that stude
 ![practicum conal](/images/practicum/conal.png)
 
 *Here is Conal facilitating a group activity on different classes of levers.*
+
+## Read More
+ - [previous: Homestay Daily Routine](/homestay_daily_routine.md)
+ - [next: Site Visit](/site_visit.md)

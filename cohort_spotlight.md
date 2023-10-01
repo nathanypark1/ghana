@@ -35,6 +35,7 @@ I wanted to take a break from sharing only my Peace Corps experience, so meet my
 ### Dylan Denner
 
 ![dylan](/images/cohort_spotlight/dylan.png)
+_Check out Dylan's [blog](https://dylandenner.com)_
 
 1. I had dropped out of graduate school to become the general manager of a baseball & softball academy. I was there only a year before leaving for Peace Corps again. 
 
@@ -74,6 +75,14 @@ https://github.com/nathanypark1/ghana/assets/136642502/15e44ba1-837d-4c2d-8dd2-3
 
 ![shanee](/images/cohort_spotlight/shanee.png)
 
+1. I was teaching in a self-contained classroom for students with moderate to severe disabilities for DoDEA.
+
+2. My favorite memory (gosh, there are so many!) Might have to be teaching my students to Electric Slide with an Afrobeat twist and realizing that I'm in Ghana, residing at a school for the Deaf and finally living out a dream that is over 15 years in the making.
+
+3. My toughest challenge was either walking up the  hills in Abonse while trying to talk to people along the way 🥵 or switching from learning Twi to learning Dagbani once I learned that my site was up North, lol!
+
+4. "Haha," funny or "ironic" funny? I hope no one else used this one but: During PST, we were being exposed to traveling via public transportation. My group of four was assigned Independence Square in Accra. The journey started off fine. We made it about halfway and needed to switch vehicles. One of my groupmates asked that we be taken to our next stop, which was Tema Station. It was taking longer than I had expected because we shouldn't have been far from our final stop. I checked Google maps and saw that we were about 10 minutes from Tema...the city, NOT Tema Station in Accra 🤦🏾‍♀️I explained our situation to the Tro driver, who was very nice, and he took us to a taxi and explained where we needed to go and we were on our way. We all had a good laugh for weeks to come!
+
 ### Sam Herndon and Dryana Russel
 
 ![sam and dryana](/images/cohort_spotlight/sam_and_dryana.png)
@@ -89,6 +98,7 @@ https://github.com/nathanypark1/ghana/assets/136642502/15e44ba1-837d-4c2d-8dd2-3
 ### Conal Thie
 
 ![conal](/images/cohort_spotlight/conal.png)
+_Check out Conal's [blog](https://conal.substack.com)_
 
 1. Engineer at a semi-conductor company 
 
@@ -96,7 +106,7 @@ https://github.com/nathanypark1/ghana/assets/136642502/15e44ba1-837d-4c2d-8dd2-3
 
 3. The 14.5 hour bus ride from Tamale to Accra 
 
-4. 
+4. During homestay, when I would return home from training, the 3 children in my homestay family would race to me, wanting to carry my backpack. The ones that I didn't give my backpack to would start fighting to take it. So, I began carrying other items in my hands just to give them to them to carry, and they remained peaceful
 
 ### Gaelle Vincent
 
@@ -113,6 +123,7 @@ https://github.com/nathanypark1/ghana/assets/136642502/15e44ba1-837d-4c2d-8dd2-3
 ### Andy Viner
 
 ![andy](/images/cohort_spotlight/andy.png)
+_Check out Andy's [blog](https://notatypicalday.blog)_
 
 1. What were you doing before joining the Peace Corps?
 I was wrapping up a 43+ year career as a research engineer, the last 33 years of which were spent at 3M, where I was closely involved with the development of the world's first N95 respirators, among other things.

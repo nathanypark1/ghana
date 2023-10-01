@@ -20,4 +20,4 @@ This page will mostly contain pictures, short stories, and what I was feeling at
 4. [Homestay Daily Routine](homestay_daily_routine.md) (June 17 - August 24)
 5. [Practicum](practicum.md) (July 9 - July 21)
 6. [Site Visit](site_visit.md) (July 28 - August 2)
-7. [Cohort Spotlight](cohort_spotlight.md) (August 22 - August 24)
+7. [Cohort Spotlight](cohort_spotlight.md)

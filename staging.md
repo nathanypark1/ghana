@@ -28,15 +28,8 @@ After the last session, we quickly boarded the bus to JFK, checked in our bags, 
 
 *First time meeting my cohort! Ignore the ackwardness, we had just met each other 8 hours ago.*
 
-<style>
-    .container {
-        display: flex; /* or inline-flex */
-        justify-content: space-between;
-    }
-</style>
-
-<div class="container">
-    <h3 class="header"></h3>
+<div style="display:flex;justify-content: space-between;">
+    <h3></h3>
     <h3>
         <a href="./hephzibah.md">
             Next: Hephzibah

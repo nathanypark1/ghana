@@ -35,7 +35,8 @@ I wanted to take a break from sharing only my Peace Corps experience, so meet my
 ### Dylan Denner
 
 ![dylan](/images/cohort_spotlight/dylan.png)
-_Check out Dylan's [blog](https://dylandenner.com)_
+
+*Check out Dylan's [blog](https://dylandenner.com)*
 
 1. I had dropped out of graduate school to become the general manager of a baseball & softball academy. I was there only a year before leaving for Peace Corps again. 
 
@@ -98,7 +99,8 @@ https://github.com/nathanypark1/ghana/assets/136642502/15e44ba1-837d-4c2d-8dd2-3
 ### Conal Thie
 
 ![conal](/images/cohort_spotlight/conal.png)
-_Check out Conal's [blog](https://conal.substack.com)_
+
+*Check out Conal's [blog](https://conal.substack.com)*
 
 1. Engineer at a semi-conductor company 
 
@@ -123,7 +125,8 @@ _Check out Conal's [blog](https://conal.substack.com)_
 ### Andy Viner
 
 ![andy](/images/cohort_spotlight/andy.png)
-_Check out Andy's [blog](https://notatypicalday.blog)_
+
+*Check out Andy's [blog](https://notatypicalday.blog)*
 
 1. What were you doing before joining the Peace Corps?
 I was wrapping up a 43+ year career as a research engineer, the last 33 years of which were spent at 3M, where I was closely involved with the development of the world's first N95 respirators, among other things.

@@ -22,3 +22,4 @@ This page will mostly contain pictures, short stories, and what I was feeling at
 6. [Site Visit](site_visit.md) (July 28 - August 2)
 7. [Cohort Spotlight](cohort_spotlight.md)
 8. [End of Training](end_of_training.md) (August 22 - August 24)
+9. [Farewell Abonse](farewell_abonse.md) (August 24)

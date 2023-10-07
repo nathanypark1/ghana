@@ -49,3 +49,4 @@ The entirety of the swearing-in ceremony was only half the day. The other half w
 
 ## Read More
  - [previous: Cohort Spotlight](/cohort_spotlight.md)
+ - [next: Farewell Abonse](/farewell_abonse.md)

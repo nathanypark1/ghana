@@ -1,5 +1,5 @@
 # Farewell Abonse
-As I alluded to in my previous post, [End of Training](/end_of_training.md), the celebration with all our homestay families was very meaningful. After leaving the ambassador's residence, we made our way to Peace Corps's Dodowa training center. We were supposed to have the celebration in Abonse so that anyone and everyone could join, however they were in the preparatory period of the [Odwira Festival](). Since there was a restriction on loud noises and drumming, we had to move our celebration to Dodowa, thus limiting the amount of invitees. There, we said our official thank yous, performed a drumming dance, and ate with our family members.
+As I alluded to in my previous post, [End of Training](/end_of_training.md), the celebration with our homestay families was very meaningful. After leaving the ambassador's residence, we made our way to Peace Corps's Dodowa training center. Originially, we were to have the celebration in Abonse so that anyone and everyone could join, however they were in the preparatory period of the [Odwira Festival](). Since there was a restriction on loud noises and drumming, we had to move our celebration to Dodowa, thus limiting the amount of invitees. There, we said our official thank yous, performed a drumming dance, and ate with our family members.
 
 After the celebration, we returned back to Abonse where we spent our last night with our families. The following day, our cohort parted ways and made our journeys to our communities.
 
@@ -15,11 +15,11 @@ The next morning, all my family members woke up early, helped carry my luggage t
 
 ![farewell abonse superlatives](/images/farewell_abonse/superlatives.png)
 
-*A couple days before graduation, our cohort got together and handed out superlatives. I was voted most likely to get malaria. For some reason the mosquitos here love me. My legs are all scarred up from all the biting and itching.*
+*A couple days before graduation, our cohort got together and handed out superlatives. I was voted most likely to get malaria. For some reason the mosquitos love me here. My legs are scarred up from all the biting and itching.*
 
 ![farewell abonse dodowa family](/images/farewell_abonse/dodowa_family.png)
 
-*At the Dodowa celebration. My family surprised me with a matching outfit. Sorry, we couldn't get the baby to look at the camera.*
+*At the Dodowa celebration. My family surprised me with matching outfits. Sorry, we couldn't get the baby to look at the camera.*
 
 ![farewell abonse dodowa gaelles family](/images/farewell_abonse/dodowa_gaelles_family.png)
 
@@ -35,16 +35,16 @@ The next morning, all my family members woke up early, helped carry my luggage t
 
 ![farewell abonse grandma abina](/images/farewell_abonse/grandma_abina.png)
 
-*Grandma Abina lived in the house next door. She housed current Peace Corps Volunteers when they came to visit Abonse and help with the training. She would always greet me in the mornings.*
+*Grandma Abina lived in the house next door. She housed current Peace Corps Volunteers when they came to visit Abonse and help with the training. She would always greet me in the mornings and evening.*
 
 ![farewell abonse grandma quabia](/images/farewell_abonse/grandma_quabia.png)
 
-*Grandma Quabia lived right near the roadside about 100m away. She was very friendly ever since we first arrived in Abonse and she helped me learn a few greetings in the local dialect. *
+*Grandma Quabia lived right near the roadside about 100m away. She was very friendly ever since we first arrived in Abonse and she helped me learn a few greetings in the local dialect.*
 
 
 ![farewell abonse doreen family](/images/farewell_abonse/doreen_family.png)
 
-*Doreen (directly to the right of me) and her family. Doreen was the one of the very first people I met when I arrived. She was in the same grade was my homestay brother, so they would study together. Auntie Doris ran the store closest to my house. I would see her every day when I passed by.*
+*Doreen (directly to the right of me) and her family. Doreen was one of the very first people I met when I arrived. She was in the same grade as my homestay brother, so they would study together. Auntie Doris ran the store closest to my house. I would see her every day when I passed by.*
 
 ![farewell abonse angelina](/images/farewell_abonse/angelina.png)
 

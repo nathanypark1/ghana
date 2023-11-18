@@ -35,7 +35,7 @@ The next morning, all my family members woke up early, helped carry my luggage t
 
 ![farewell abonse grandma abina](/images/farewell_abonse/grandma_abina.png)
 
-*Grandma Abina lived in the house next door. She housed current Peace Corps Volunteers when they came to visit Abonse and help with the training. She would always greet me in the mornings and evening.*
+*Grandma Abina lived in the house next door. She housed current Peace Corps Volunteers when they came to visit Abonse and help with the training. She would always greet me in the mornings and evenings.*
 
 ![farewell abonse grandma quabia](/images/farewell_abonse/grandma_quabia.png)
 

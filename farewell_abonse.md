@@ -56,3 +56,4 @@ The next morning, all my family members woke up early, helped carry my luggage t
 
 ## Read More
  - [previous: End of Training](/end_of_training.md)
+ - [next: Rats](/rats.md)

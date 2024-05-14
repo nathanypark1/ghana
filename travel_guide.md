@@ -1,5 +1,5 @@
 # Travel Guide
-This page is to document routes and stations in Ghana. Clicking on the `Start` values should take you directly to, or very near the transport's departure point on Google Maps. The `Cost` section is as of May 2024.
+This page is to document routes and stations in Ghana. Clicking on the `Start` values should take you directly to, or very near the transport's departure point on Google Maps. The `Cost` section is up to date as of May 2024.
 
 Some cities such as Accra and Kumasi have popular ride sharing applications.
 
@@ -7,6 +7,13 @@ Some cities such as Accra and Kumasi have popular ride sharing applications.
 | ----------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | Bolt        | [link](https://apps.apple.com/us/app/bolt-request-a-ride/id675033630) | [link](https://play.google.com/store/apps/details?id=ee.mtakso.client&pcampaignid=web_share) |
 | Uber        | [link](https://apps.apple.com/us/app/uber-request-a-ride/id368677368) | [link](https://play.google.com/store/apps/details?id=com.ubercab&pcampaignid=web_share)      |
+
+Lastly, feel free to add and edit marked locations on Google Maps. Whether it's good places to eat or somewhere PCTs congregate.
+| Location | Google Maps Marked Locations                                                    
+| ----------- | --------------------------------------------------------------------- 
+| Accra        | [link](https://maps.app.goo.gl/sP1AJpDuV8jMxtGf8) 
+| Kumasi        | [link](https://maps.app.goo.gl/PA6Tr9hBqx5nTVzp7) 
+| Tamale        | [link](https://maps.app.goo.gl/iv4BHRdb9mG2J7bd8) 
 
 
 ## Origin
